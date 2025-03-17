@@ -3,7 +3,6 @@ import MyContext from "../../context/data/myContext";
 import Brand from "../../assets/Brand.png";
 import { Moon, ShoppingCart, SunMedium, UserRound } from "lucide-react";
 import DropdownInput from "./DropdownInput";
-import { Button } from "../ui/button";
 import { cn } from "@/lib/utils";
 
 const Navbar = () => {
